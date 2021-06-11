@@ -84,7 +84,7 @@ Para importar seguir os seguintes passos:
 Para visualizar a documentação da API rodar o código e acessar no navegador o link abaixo:
 
 ```
-http://localhost:9000/kafka/v1/swagger-ui.html
+http://localhost:9001/clientes/v1/swagger-ui.html
 ```
 
 #
@@ -132,7 +132,7 @@ http://localhost:9000/kafka/v1/swagger-ui.html
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [O que é MongoDB?](https://www.treinaweb.com.br/blog/o-que-e-mongodb)
-* [https://spring.io/guides/gs/accessing-data-mongodb/](https://spring.io/guides/gs/accessing-data-mongodb/)
+* [Accessing Data with MongoDB](https://spring.io/guides/gs/accessing-data-mongodb/)
 * [Build a CRUD App with Spring Boot and MongoDB](https://www.split.io/blog/crud-spring-boot-mongodb/)
 * [Documenting Spring Boot REST API with SpringDoc + OpenAPI 3](https://www.dariawan.com/tutorials/spring/documenting-spring-boot-rest-api-springdoc-openapi-3/)
 * [OpenAPI Specification](https://swagger.io/specification/)
